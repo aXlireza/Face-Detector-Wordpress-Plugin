@@ -6,5 +6,5 @@ And then take some info from client to store beside the uploaded image.
 Now it also use MediaPipe to check if the uploaded image has an actual face!
 
 ## Source
-[My Demo](https://wordpress-xzq7tow-s.liara.run/image-scanner/)
+[My Demo](https://nostalgic-kilby-vmoaq-o4oq.liara.run/)
 [Google MediaPipe Github](https://github.com/google-ai-edge/mediapipe)
