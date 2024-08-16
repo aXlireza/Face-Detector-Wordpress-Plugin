@@ -1,9 +1,13 @@
 <?php
 /*
-Plugin Name: Image Scanner Plugin
-Description: A plugin that simulates image scanning and analysis.
-Version: 1.4
-Author: Your Name
+Plugin Name: Image Scanner
+Description: Analyze user face.
+Version: 2.0
+Author: aXlireza
+Author URI: https://github.com/aXlireza
+License: Apache License 2.0
+License URI: https://www.apache.org/licenses/LICENSE-2.0
+
 */
 
 // Prevent direct access
